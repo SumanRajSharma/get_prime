@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/sumanrajsharma/get_prime?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sumanrajsharma?style=social)
 
-Project name is a `implementation of Seive of Eratosthenes` that generates the prime numbers between 2 and `limit` (which user can provide). Considered as fastest algorithm to find primes. [click here to know more about the algo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+It is an `implementation of Seive of Eratosthenes` that generates the prime numbers between 2 and `limit` (which user can provide). Considered as fastest algorithm to find primes. [click here to know more about the algo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
 ## Contributors
 

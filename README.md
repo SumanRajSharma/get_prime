@@ -1,4 +1,4 @@
-# Finding prime number using algorithm: Seive of Eratosthenes 
+# Finding prime number using Seive of Eratosthenes algorithm
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/sumanrajsharma/get_prime)

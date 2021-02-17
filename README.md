@@ -1,4 +1,4 @@
-# Finding prime number using Seive of Eratosthenes algorithm
+# Finding prime number using Sieve of Eratosthenes algorithm
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/sumanrajsharma/get_prime)
@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/sumanrajsharma/get_prime?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sumanrajsharma?style=social)
 
-It is an `implementation of Seive of Eratosthenes` that generates the prime numbers between 2 and `limit` (which user can provide). Considered as fastest algorithm to find primes. [click here to know more about the algo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+It is an `implementation of Sieve of Eratosthenes` that generates the prime numbers between 2 and `limit` (which user can provide). Considered as fastest algorithm to find primes. [click here to know more about the algo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
 ## Contributors
 
